@@ -1,3 +1,5 @@
+# NOTE
+Make sure you have a internet connection when runnning the installer!
 # How to use for install! Windows Only!
 ## Step 1
 [Download](https://github.com/catocodedev/installers/raw/main/catoscript/cato-installer.exe) the installer exe file.
@@ -9,7 +11,7 @@ Run installer as administrator.
 Select the options.
 ## Step 5
 Done! catoscript will be installed globally.
-# Unstall
+# Uninstall
 ## Step 1
 Ensure the installer and catoscript are in the same folder.
 ## Step 2
